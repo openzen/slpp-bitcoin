@@ -1,1 +1,1 @@
-# slpp-bitcoin
+# slpp
